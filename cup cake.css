@@ -1,0 +1,11 @@
+h1{color:red ;font-size: 2em}
+
+a:hover  
+{
+    Font-Weight: Bold;
+
+}
+
+figure{text-align: center}
+
+ul {border-style: solid;border-color: rgb(252, 179, 191);border-spacing: 1em;    box-shadow: 6px 6px 0px black;margin-left: 345px;margin-right: 450px }
